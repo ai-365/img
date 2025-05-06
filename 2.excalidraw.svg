@@ -1,0 +1,211 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "H71sgQyDRyyEk9-qnZd2N",
+      "type": "rectangle",
+      "x": 375.2749938964844,
+      "y": 119.22077941894531,
+      "width": 199.72879028320312,
+      "height": 170.6645965576172,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1687784924,
+      "version": 22,
+      "versionNonce": 1727098716,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746536588800,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "JNGUnQ-0VuwlqEvIvVLpF",
+      "type": "ellipse",
+      "x": 494.816650390625,
+      "y": 188.1588897705078,
+      "width": 177.7271728515625,
+      "height": 201.4667510986328,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1849893852,
+      "version": 22,
+      "versionNonce": 1954858332,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746536590031,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "nB-2Ywj6LNPOrdWT6qwkK",
+      "type": "freedraw",
+      "x": 710.4315795898438,
+      "y": 183.7585906982422,
+      "width": 152.295654296875,
+      "height": 182.3987579345703,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": null,
+      "seed": 1748970468,
+      "version": 17,
+      "versionNonce": 1782962268,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746536593963,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1.951904296875,
+          2.719635009765625
+        ],
+        [
+          -8.5523681640625,
+          12.253616333007812
+        ],
+        [
+          -19.5531005859375,
+          23.987762451171875
+        ],
+        [
+          -34.2208251953125,
+          42.3223876953125
+        ],
+        [
+          -63.55621337890625,
+          84.85859680175781
+        ],
+        [
+          -82.6240234375,
+          103.92662048339844
+        ],
+        [
+          -104.625732421875,
+          122.26127624511719
+        ],
+        [
+          -120.7601318359375,
+          141.32920837402344
+        ],
+        [
+          -133.2276611328125,
+          155.9969024658203
+        ],
+        [
+          -142.02825927734375,
+          166.2642364501953
+        ],
+        [
+          -147.1619873046875,
+          172.8648223876953
+        ],
+        [
+          -150.82891845703125,
+          180.19859313964844
+        ],
+        [
+          -151.562255859375,
+          181.6653594970703
+        ],
+        [
+          -152.295654296875,
+          182.3987579345703
+        ],
+        [
+          -152.295654296875,
+          182.3987579345703
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        -152.295654296875,
+        182.3987579345703
+      ]
+    },
+    {
+      "id": "k-JC9DzQGMf48gtyliy6Y",
+      "type": "text",
+      "x": 441.49404409616903,
+      "y": 285.97393798828125,
+      "width": 424.8239246368454,
+      "height": 64.37792788353258,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": null,
+      "seed": 1848401636,
+      "version": 368,
+      "versionNonce": 1011195620,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746536631273,
+      "link": null,
+      "locked": false,
+      "text": "ce大幅度发的 的分到\n发的咕嘟咕嘟 ",
+      "fontSize": 23.843676993900946,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "ce大幅度发的 的分到\n发的咕嘟咕嘟 ",
+      "autoResize": false,
+      "lineHeight": 1.35
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
